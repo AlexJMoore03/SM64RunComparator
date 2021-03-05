@@ -1,0 +1,2 @@
+# SM64RunComparator
+This java project is a program that allows the user to select the strategies used for different stars and segments of Super Mario 64. It includes stars with multiple strategies that are used in speedruns. In addition, by saving the run to a file, the program allows you to easily and directly compare runs and see the time saves and losses in each segment. This project introduced me to the Eclipse IDE and expanded my experience building and using Java classes, as well as the knowledge of how to use Java to create GUIs and save data to computer files.
